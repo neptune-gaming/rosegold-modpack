@@ -25,3 +25,19 @@ MrCrayfish's Furniture Mod: https://www.curseforge.com/minecraft/mc-mods/mrcrayf
 Quark: http://vazkii.net/subdom/quark/old/
 
 Quark Oddities: https://www.curseforge.com/minecraft/mc-mods/quark-oddities
+
+FastFurnace: https://www.curseforge.com/minecraft/mc-mods/fastfurnace
+
+FastWorkbench: https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+
+TexFix: https://www.curseforge.com/minecraft/mc-mods/texfix
+
+VanillaFix: https://www.curseforge.com/minecraft/mc-mods/vanillafix
+
+Phosphor (Forge): https://www.curseforge.com/minecraft/mc-mods/phosphor-forge
+
+Surge: https://www.curseforge.com/minecraft/mc-mods/surge
+
+Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entity-culling
+
+Particle Culling: https://www.curseforge.com/minecraft/mc-mods/particle-culling
