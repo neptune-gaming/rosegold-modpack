@@ -41,3 +41,5 @@ Surge: https://www.curseforge.com/minecraft/mc-mods/surge/download/2916357
 Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entity-culling/download/3328601
 
 Particle Culling: https://www.curseforge.com/minecraft/mc-mods/particle-culling/download/3060450
+
+HWYLA: https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
