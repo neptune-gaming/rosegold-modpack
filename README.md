@@ -43,3 +43,5 @@ Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entity-culling/down
 Particle Culling: https://www.curseforge.com/minecraft/mc-mods/particle-culling/download/3060450
 
 HWYLA: https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
+
+MakeZoomZoom: https://github.com/MohistMC/MakeZoomZoom/releases/download/0.0.4/MakeZoomZoom-0.0.4.jar
