@@ -4,7 +4,7 @@ The modpack used in the RoseGold Modded SMP. Also includes performance mods to f
 **DISCLAIMER:**
 I do not own these mods. The links below are the original download links ~~and the mods put here are simply for your convenience~~The mods are no longer here. Please use their direct download links from Curseforge to support the mod makers. Please give credits to them.
 
-**Download sites for the mods:**
+**Download sites for the mods (client-side mods):**
 -
 BetterNether for 1.12.2: https://www.curseforge.com/minecraft/mc-mods/betternether/download/2859893
 
@@ -26,6 +26,8 @@ Quark: https://www.curseforge.com/minecraft/mc-mods/quark/download/2924091
 
 Quark Oddities: https://www.curseforge.com/minecraft/mc-mods/quark-oddities/download/2604798
 
+**Performance:**
+
 FastFurnace: https://www.curseforge.com/minecraft/mc-mods/fastfurnace/download/2706111
 
 FastWorkbench: https://www.curseforge.com/minecraft/mc-mods/fastworkbench/download/2838777
@@ -42,6 +44,15 @@ Entity Culling: https://www.curseforge.com/minecraft/mc-mods/entity-culling/down
 
 Particle Culling: https://www.curseforge.com/minecraft/mc-mods/particle-culling/download/3060450
 
+**misc:**
+
 HWYLA: https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751
 
-MakeZoomZoom: https://github.com/MohistMC/MakeZoomZoom/releases/download/0.0.4/MakeZoomZoom-0.0.4.jar
+**Dependencies:**
+
+Forgelin: https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/download/2785465
+
+AutoRegLib: https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011
+
+**Download sites for the mods (server-side mods):**
+-
