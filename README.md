@@ -35,8 +35,10 @@ Botania: https://www.curseforge.com/minecraft/mc-mods/botania/download/3330934
 Aquaculture: https://www.curseforge.com/minecraft/mc-mods/aquaculture/download/2659258
 
 Dynamic Trees: https://www.curseforge.com/minecraft/mc-mods/dynamictrees/download/3446235
---Dynamic trees add-on for Biomes O' Plenty: https://www.curseforge.com/minecraft/mc-mods/dtbop/download/3268265
---Dynamic trees add-on for Quark: https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark/download/3098571
+
+=> Dynamic trees add-on for Biomes O' Plenty: https://www.curseforge.com/minecraft/mc-mods/dtbop/download/3268265
+
+=> Dynamic trees add-on for Quark: https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark/download/3098571
 
 **Performance:**
 
@@ -97,8 +99,10 @@ Botania: https://www.curseforge.com/minecraft/mc-mods/botania/download/3330934
 Aquaculture: https://www.curseforge.com/minecraft/mc-mods/aquaculture/download/2659258
 
 Dynamic Trees: https://www.curseforge.com/minecraft/mc-mods/dynamictrees/download/3446235
---Dynamic trees add-on for Biomes O' Plenty: https://www.curseforge.com/minecraft/mc-mods/dtbop/download/3268265
---Dynamic trees add-on for Quark: https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark/download/3098571
+
+=> Dynamic trees add-on for Biomes O' Plenty: https://www.curseforge.com/minecraft/mc-mods/dtbop/download/3268265
+
+=> Dynamic trees add-on for Quark: https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-quark/download/3098571
 
 **misc:**
 
