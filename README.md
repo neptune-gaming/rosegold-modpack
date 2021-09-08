@@ -4,7 +4,9 @@ The modpack used in the RoseGold Modded SMP. Also includes performance mods to f
 **DISCLAIMER:**
 I do not own these mods. The links below are the original download links ~~and the mods put here are simply for your convenience~~ The mods are no longer here. We will be switching to curseforge soon to make it easier for everyone to install and use our modpack. Please use their direct download links from Curseforge to support the mod makers. Please give credits to them.
 
-**Download sites for the mods (client-side mods):**
+For server owners who want to use my modpack, please refer to the links down below. There are 2 regions there - links to be used for the client, and links to the mods for the server. Some of those included here are for performance to make your gameplay experience a little less laggy. Hope you enjoy!
+
+**Download sites for the mods (client-side mods)(THIS IS WHAT YOU'LL USE IN YOUR CLIENT!! INSTALL ALL THOSE THAT ARE LISTED HERE!!):**
 -
 BetterNether for 1.12.2: https://www.curseforge.com/minecraft/mc-mods/betternether/download/2859893
 
@@ -68,7 +70,7 @@ Forgelin: https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/down
 
 AutoRegLib: https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011
 
-**Download sites for the mods (server-side mods):**
+**Download sites for the mods (server-side mods)(THIS IS WHAT YOU'LL ADD IN YOUR SERVER!! CONFIG FILE LINKS COMING SOON!! DO NOT USE IN YOUR CLIENT!!):**
 -
 BetterNether for 1.12.2: https://www.curseforge.com/minecraft/mc-mods/betternether/download/2859893
 
